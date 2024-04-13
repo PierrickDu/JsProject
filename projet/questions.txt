@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la capitale de la France ?",
+      "options": ["Paris", "Londres", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "options": ["Mars", "Vénus", "Jupiter", "Saturne"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Qui a peint la Joconde ?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michel-Ange"],
+      "answer": "Leonardo da Vinci"
+    }
+  ]
+}
